@@ -3,7 +3,7 @@ Comme l'année dernière, les séances hebdomadaires auront lieu les **mercredis
 ## Planning des séances du mercredi
 
 | Date | Séance n° | Responsable | Sujet | Commentaires
-|--|--|--|--|--|--|--|--|
+|--|--|--|--|--
 | 11 septembre 2024 | 01 |  | Lorem Ipsum |  
 | 18 septembre 2024 | 02 |  | Lorem Ipsum |  
 | 25 septembre 2024 | 03 |  | Lorem Ipsum |  
