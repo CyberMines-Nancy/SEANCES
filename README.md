@@ -4,7 +4,7 @@ Comme l'année dernière, les séances hebdomadaires auront lieu les **mercredis
 
 | Date | Séance n° | Responsable | Sujet | Commentaires
 |--|--|--|--|--
-| 11 septembre 2024 | 01 |  | Lorem Ipsum |  
+| 11 septembre 2024 | 01 | Jules D | Introduction générale | Utilisation de GoBuster  
 | 18 septembre 2024 | 02 |  | Lorem Ipsum |  
 | 25 septembre 2024 | 03 |  | Lorem Ipsum |  
 | 2 octobre 2024 | 04 |  | Lorem Ipsum |  
