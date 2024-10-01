@@ -7,7 +7,7 @@ Comme l'année dernière, les séances hebdomadaires auront lieu les **mercredis
 | 11 septembre 2024 | 01 | Jules D | Introduction générale | Utilisation de GoBuster  
 | 18 septembre 2024 | 02 | Martin E | Initiation au Hacking Réseau : Explorer et Cibler des services |  Utilisation de Nmap et Hydra
 | 25 septembre 2024 | 03 | Eliott L | Découverte de nombreux concepts et outils liés à la cybersécurité  | Utilisation de netcat, Metasploit, Reverse shell
-| 2 octobre 2024 | 04 |  | Lorem Ipsum |  
+| 2 octobre 2024 | 04 | / | Suite et fin de la séance 03 | Utilisation de netcat, Metasploit, Reverse shell  
 | 9 octobre 2024 | 05 |  | Lorem Ipsum |  
 | 16 octobre 2024 | 06 |  | Lorem Ipsum |  
 | 23 octobre 2024 | 07 |  | Lorem Ipsum |  
