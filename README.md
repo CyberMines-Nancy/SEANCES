@@ -9,9 +9,8 @@ Comme l'année dernière, les séances hebdomadaires auront lieu les **mercredis
 | 25 septembre 2024 | 03 | Eliott L | Découverte de nombreux concepts et outils liés à la cybersécurité  | Utilisation de netcat, Metasploit, Reverse shell
 | 2 octobre 2024 | 04 | / | Suite et fin de la séance 03 | Utilisation de netcat, Metasploit, Reverse shell  
 | 9 octobre 2024 | 05 | Jules D | BruteIt | Cryptographie asymétrique, retour sur plusieurs notions 
-| 16 octobre 2024 | 06 | / | BruteIt | Cryptographie asymétrique, retour sur plusieurs notions 
-| 23 octobre 2024 | 07 |  | Lorem Ipsum |  
-| 6 novembre 2024 | 08 |  | Lorem Ipsum |  
+| 16 octobre 2024 | 06 | / | BruteIt | Cryptographie asymétrique, retour sur plusieurs notions  
+| 6 novembre 2024 | 07 | Brooklyn Nine Nine | Stéganographie, élévation de privilèges 
 | 13 novembre 2024 | 09 |  | Lorem Ipsum |  
 | 20 novembre 2024 | 10 |  | Lorem Ipsum |  
 | 27 novembre 2024 | 11 |  | Lorem Ipsum |  
