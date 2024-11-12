@@ -11,7 +11,7 @@ Comme l'année dernière, les séances hebdomadaires auront lieu les **mercredis
 | 9 octobre 2024 | 05 | Jules D | BruteIt | Cryptographie asymétrique, retour sur plusieurs notions 
 | 16 octobre 2024 | 06 | / | BruteIt | Cryptographie asymétrique, retour sur plusieurs notions  
 | 6 novembre 2024 | 07 | Brooklyn Nine Nine | Stéganographie, élévation de privilèges 
-| 13 novembre 2024 | 09 |  | Lorem Ipsum |  
+| 13 novembre 2024 | 08 | Martin E | Exploitation des failles de formulaire : Obtenir un Reverse Shell |  Utilisation de BurpSuite
 | 20 novembre 2024 | 10 |  | Lorem Ipsum |  
 | 27 novembre 2024 | 11 |  | Lorem Ipsum |  
 | 4 décembre 2024 | 12 |  | Lorem Ipsum |  
