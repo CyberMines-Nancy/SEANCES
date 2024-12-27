@@ -11,11 +11,9 @@ Comme l'année dernière, les séances hebdomadaires auront lieu les **mercredis
 | 9 octobre 2024 | 05 | Jules D | BruteIt | Cryptographie asymétrique, retour sur plusieurs notions 
 | 16 octobre 2024 | 06 | / | BruteIt | Cryptographie asymétrique, retour sur plusieurs notions  
 | 6 novembre 2024 | 07 | Brooklyn Nine Nine | Stéganographie, élévation de privilèges 
-| 13 novembre 2024 | 09 |  | Lorem Ipsum |  
+| 13 novembre 2024 | 08 | Martin E | 
 | 20 novembre 2024 | 10 |  | Lorem Ipsum |  
-| 27 novembre 2024 | 11 |  | Lorem Ipsum |  
-| 4 décembre 2024 | 12 |  | Lorem Ipsum |  
-| 18 décembre 2024 | 13 |  | Lorem Ipsum |  
+| 4 décembre 2024 | 12 | / | Début de l'Advent of Cyber | Analyse de log
 | 15 janvier 2024 | 14 |  | Lorem Ipsum |  
 | 22 janvier 2024 | 15 |  | Lorem Ipsum |  
 | 19 mars 2024 | 16 |  | Lorem Ipsum |  
