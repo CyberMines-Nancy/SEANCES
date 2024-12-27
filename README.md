@@ -12,15 +12,15 @@ Comme l'année dernière, les séances hebdomadaires auront lieu les **mercredis
 | 16 octobre 2024 | 06 | / | BruteIt | Cryptographie asymétrique, retour sur plusieurs notions  
 | 6 novembre 2024 | 07 | Brooklyn Nine Nine | Stéganographie, élévation de privilèges 
 | 13 novembre 2024 | 08 | Martin E | Exploitation des failles de formulaire : Obtenir un Reverse Shell |  Utilisation de BurpSuite
-| 20 novembre 2024 | 10 |  | Lorem Ipsum |  
-| 4 décembre 2024 | 12 | / | Début de l'Advent of Cyber | Analyse de log
-| 15 janvier 2024 | 14 |  | Lorem Ipsum |  
-| 22 janvier 2024 | 15 |  | Lorem Ipsum |  
-| 19 mars 2024 | 16 |  | Lorem Ipsum |  
-| 30 avril 2024 | 17 |  | Lorem Ipsum |  
-| 14 mai 2024 | 18 |  | Lorem Ipsum |  
-| 21 mai 2024 | 19 |  | Lorem Ipsum |  
-| 28 mai 2024 | 20 |  | Lorem Ipsum | 
-| 4 juin 2024 | 21 |  | Lorem Ipsum |  
+| 20 novembre 2024 | 09 | / | Bounty Hacker | Retour sur plusieurs notions
+| 4 décembre 2024 | 10 | / | Début de l'Advent of Cyber | Analyse de log
+| 8 janvier 2024 | 11 |  | Lorem Ipsum |  
+| 22 janvier 2024 | 11 | CONFÉRENCE |  |  
+| 19 mars 2024 | 12 |  | Lorem Ipsum |  
+| 30 avril 2024 | 13 |  | Lorem Ipsum |  
+| 14 mai 2024 | 14 |  | Lorem Ipsum |  
+| 21 mai 2024 | 15 |  | Lorem Ipsum |  
+| 28 mai 2024 | 16 |  | Lorem Ipsum | 
+| 4 juin 2024 | 17 |  | Lorem Ipsum |  
 
 
