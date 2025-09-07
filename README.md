@@ -4,7 +4,6 @@ Comme l'année dernière, les séances hebdomadaires auront lieu les **mercredis
 
 | Date | Séance n° | Responsable | Room | Commentaires
 |--|--|--|--|--
-
 | 10 septembre 2025 | 01 | Amine A  | Offensive Security Intro | Présentation de l'association et Introduction à la Sécurité Offensive 
 | 17 septembre 2025 | 02 | Alassane D | Linux Fundamentals | Bases de Linux
 | 24 septembre 2025 | 03 | Odin C | OhSINT | Introduction à l'OSINT et à la Stéganographie 
