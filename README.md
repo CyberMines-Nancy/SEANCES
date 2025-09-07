@@ -2,15 +2,17 @@ Comme l'année dernière, les séances hebdomadaires auront lieu les **mercredis
 
 ## Planning des séances du mercredi
 
-| Date | Séance n° | Responsable | Sujet | Commentaires
+| Date | Séance n° | Responsable | Room | Commentaires
 |--|--|--|--|--
+
+| 10 septembre 2025 | 01 | Amine A  | Offensive Security Intro | Présentation de l'association et Introduction à la Sécurité Offensive 
+| 17 septembre 2025 | 02 | Alassane D | Linux Fundamentals | Bases de Linux
+| 24 septembre 2025 | 03 | Odin C | OhSINT | Introduction à l'OSINT et à la Stéganographie 
+
 <!-- upcoming sessions (hidden for now)
-| 11 septembre 2024 | 01 | Amine A  | General Introduction | Club Presentation & Intro to Offensive Security 
-| 18 septembre 2024 | 02 | Alassane D | Linux Fundamentals |  Basic Linux usage
-| 25 septembre 2024 | 03 | Odin C | Découverte de nombreux concepts et outils liés à la cybersécurité  | Utilisation de netcat, Metasploit, Reverse shell
-| 2 octobre 2024 | 04 | / | Suite et fin de la séance 03 | Utilisation de netcat, Metasploit, Reverse shell  
-| 9 octobre 2024 | 05 | Jules D | BruteIt | Cryptographie asymétrique, retour sur plusieurs notions 
-| 16 octobre 2024 | 06 | / | BruteIt | Cryptographie asymétrique, retour sur plusieurs notions  
+| 1 octobre 2025 | 04 | / | Suite et fin de la séance 03 | Utilisation de netcat, Metasploit, Reverse shell  
+| 8 octobre 2025 | 05 | Jules D | BruteIt | Cryptographie asymétrique, retour sur plusieurs notions 
+| 15 octobre 2025 | 06 | / | BruteIt | Cryptographie asymétrique, retour sur plusieurs notions  
 | 6 novembre 2024 | 07 | Brooklyn Nine Nine | Stéganographie, élévation de privilèges 
 | 13 novembre 2024 | 08 | Martin E | Exploitation des failles de formulaire : Obtenir un Reverse Shell |  Utilisation de BurpSuite
 | 20 novembre 2024 | 09 | / | Bounty Hacker | Retour sur plusieurs notions
