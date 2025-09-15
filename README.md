@@ -5,8 +5,8 @@ Comme l'année dernière, les séances hebdomadaires auront lieu les **mercredis
 | Date | Séance n° | Responsable | Room | Commentaires 
 |--|--|--|--|--
 | 10 septembre 2025 | 01 | Amine A  | [Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintro) | Présentation de l'association et Introduction à la Sécurité Offensive 
-| 17 septembre 2025 | 02 | Alassane D | [Linux Fundamentals](https://tryhackme.com/room/linuxfundamentalspart1) | Bases de Linux
-| 24 septembre 2025 | 03 | Odin C | [OhSINT](https://tryhackme.com/room/ohsint) | Introduction à l'OSINT et à la Stéganographie 
+| 24 septembre 2025 | 02 | Alassane D | [Linux Fundamentals](https://tryhackme.com/room/linuxfundamentalspart1) | Bases de Linux
+| 1 octobre 2025 | 03 | Odin C | [OhSINT](https://tryhackme.com/room/ohsint) | Introduction à l'OSINT et à la Stéganographie 
 
 <!-- upcoming sessions (hidden for now)
 | 1 octobre 2025 | 04 | / | Suite et fin de la séance 03 | Utilisation de netcat, Metasploit, Reverse shell  
