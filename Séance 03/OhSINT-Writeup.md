@@ -1,7 +1,7 @@
 # Lab Report - OhSINT
 
 ## Overview
----
+
 
 - **Category**: OSINT, Steganography, Google Dorking
     
