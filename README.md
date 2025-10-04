@@ -7,10 +7,9 @@ Comme l'année dernière, les séances hebdomadaires auront lieu les **mercredis
 | 10 septembre 2025 | 01 | Amine A  | [Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintro) | Présentation de l'association et Introduction à la Sécurité Offensive 
 | 24 septembre 2025 | 02 | Alassane D | [Linux Fundamentals](https://tryhackme.com/room/linuxfundamentalspart1) | Bases de Linux
 | 1 octobre 2025 | 03 | Odin C | [OhSINT](https://tryhackme.com/room/ohsint) | Introduction à l'OSINT et à la Stéganographie 
-
+| 8 octobre 2025 | 04 | Amine A | [Bounty Hacker](https://tryhackme.com/room/cowboyhacker) | Énumération de services  
+| 15 octobre 2025 | 05 | Alassane D | Crack the Hash | Cryptographie, Techniques de Hash cracking
 <!-- upcoming sessions (hidden for now)
-| 1 octobre 2025 | 04 | / | Suite et fin de la séance 03 | Utilisation de netcat, Metasploit, Reverse shell  
-| 8 octobre 2025 | 05 | Jules D | BruteIt | Cryptographie asymétrique, retour sur plusieurs notions 
 | 15 octobre 2025 | 06 | / | BruteIt | Cryptographie asymétrique, retour sur plusieurs notions  
 | 6 novembre 2024 | 07 | Brooklyn Nine Nine | Stéganographie, élévation de privilèges 
 | 13 novembre 2024 | 08 | Martin E | Exploitation des failles de formulaire : Obtenir un Reverse Shell |  Utilisation de BurpSuite
