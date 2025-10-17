@@ -2,7 +2,6 @@
 
 
 # Overview 
----
 - **Category**: Web
 - **Difficulty**: Easy
 - **Platform**: Linux
@@ -10,17 +9,13 @@
 - **Tags**: #enumeration #privesc 
 
 ## Challenge Description 
----
 > **- Basic boot-to-root machine.** 
 
 ## Resolution Summary 
----
 >**We enumerated the machine, discovered hidden web directories and decoded multiple encodings/steganography to retrieve flags and credentials, cracked a webpage hash to reveal a password, and used extracted credentials to connect over SSH. After auditing scheduled tasks we found a root-run cron script with insecure permissions, modified it to spawn a root shell, achieving full compromise.**
 
 # Information Gathering 
----
 ### Active Reconnaissance : 
----
 - **We started by performing an Nmap scan on the target, we also scanned for services' versions to look early on for low hanging fruits.
 ```bash
 nmap -sV 10.10.132.17 
@@ -42,7 +37,6 @@ PORT   STATE SERVICE VERSION
 ```
 
 ## HTTP (80)
----
 - **First we ran GoBuster to look for hidden directories, as there was not much on the web page at first sight (default Nginx welcome page). 
 - **For the first one : 
 ```bash
@@ -75,7 +69,6 @@ gobuster dir -u 10.10.132.17/hidden -w /usr/share/wordlists/seclists/Discovery/W
 	- **`flag{f1rs7_fl4g}`**
 
 ## HTTP (65524)
----
 - **For the second HTTP server, we were also greeted with the default Apache the welcome page.
 - **However, upon inspecting the Source Page, we found a flag hiding in plain sight: 
 	- **`flag{9fdafbd64c47471a8f54cd3fc64cd312}`**
@@ -131,7 +124,6 @@ ssh boring@10.10.132.17 -p6498
 - **We found the `user.txt` flag, which needed to be decoded using ROT13 on CyberChef.**
 	- **`flag{n0wits33msn0rm4l}`**
 # Privilege Escalation 
----
 - **Upon inspecting usual privesc attack vectors, we found a vulnerable cronjob that was running as root. 
 - **We found the binary attached to the cronjob: 
 ```bash
@@ -145,17 +137,14 @@ find / -name ".mysecretcronjob.sh" 2>/dev/null
 
 - **And we make our way through root and read the root.txt flag.**
 # Trophy 
----
-**User.txt → `flag{n0wits33msn0rm4l}`  
-
+**User.txt → `flag{n0wits33msn0rm4l}`**
 **Root.txt → `flag{63a9f0ea7bb98050796b649e85481845}`**
+
 # Remediation Summary
----
 - **World-writable binaries in root owned cronjobs**: Ensure cron jobs and their scripts/binaries are owned by root and not writable by others (strict permissions).
 - **Credentials hiding in images**:Remove credentials and sensitive data from web content and images; store secrets securely.
 
 # Lessons Learned
----
 - **Recursively using GoBuster on discovered hidden directories can be useful. 
 - **Identify the hash algorithm/format** before cracking to save time.
 - **Test different user-agents/headers**: servers may reveal different content based on them.
