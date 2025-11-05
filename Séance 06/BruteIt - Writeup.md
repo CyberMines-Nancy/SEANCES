@@ -71,7 +71,7 @@ john --wordlist=/home/kali/Downloads/rockyou.txt key.hash
 - **And we found the following passphrase:**
 	- **`rockinroll`**.
 
-- **Now we attempted to log into the SSH server again, and we succeeded:
+- **Now we attempted to log into the SSH server again, and we succeeded:**
 ```bash
 ssh -i key john@10.10.30.216
 ```
