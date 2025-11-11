@@ -12,10 +12,4 @@ Comme l'année dernière, les séances hebdomadaires auront lieu les **mercredis
 | 5 novembre 2025 | 06 ✅| Odin C | [BruteIt](https://tryhackme.com/room/bruteit) | Mini CTF  
 | 12 novembre 2025 | 07 | Amine A | [Fowsniff](https://tryhackme.com/room/ctf) | Mini CTF 
 | 19 novembre 2025 | 08 | Alassane D | [Vulnversity](https://tryhackme.com/room/vulnversity) |  Utilisation de BurpSuite
-<!-- upcoming sessions (hidden for now)
-| 20 novembre 2024 | 09 | / | Bounty Hacker | Retour sur plusieurs notions
-| 4 décembre 2024 | 10 | / | Début de l'Advent of Cyber | Analyse de log  
-| 22 janvier 2025 | 11 | CONFÉRENCE 1 |  |  
-| 26 mars 2025 | 12 |  | CONFÉRENCE 2 |  
-| 28 mai 2025 | 13 | / | Root Me |  Divers 
---!>
+
