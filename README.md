@@ -12,5 +12,5 @@ Comme l'année dernière, les séances hebdomadaires auront lieu les **mercredis
 | 5 novembre 2025 | 06 ✅| Odin C | [BruteIt](https://tryhackme.com/room/bruteit) | Mini CTF  
 | 19 novembre 2025 | 07 ✅| Amine A | [Fowsniff](https://tryhackme.com/room/ctf) | Mini CTF 
 | 26 novembre 2025 | 08 ✅| Alassane D | [Vulnversity](https://tryhackme.com/room/vulnversity) |  Utilisation de BurpSuite
-| 21 janvier 2025 | 09 ✅| Odin C | [DVWA](https://tryhackme.com/room/dvwa) | File Inclusion (web vuln)
-| 28 janvier 2025 | 10 | Amine A | [DVWA](https://tryhackme.com/room/dvwa) | Command Injection (web vuln)
+| 21 janvier 2026 | 09 ✅| Odin C | [DVWA](https://tryhackme.com/room/dvwa) | File Inclusion (web vuln)
+| 28 janvier 2026 | 10 | Amine A | [DVWA](https://tryhackme.com/room/dvwa) | Command Injection (web vuln)
